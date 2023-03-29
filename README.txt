@@ -1,4 +1,4 @@
-TSP Solver with Branch and Bound Algorithm
+TSP Solver with Branch and Bound Algorithm 🗺️
 
 Authored by Addin Munawwar Yusuf
 13521085 - Informatics Engineering ITB Indonesia
